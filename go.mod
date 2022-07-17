@@ -1,4 +1,4 @@
-module github.com/grantfayvor/hexcord-mediaserver
+module github.com/remarket-vn/hexcord-mediaserver
 
 go 1.14
 
