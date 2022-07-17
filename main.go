@@ -5,7 +5,7 @@ import (
 	"log"
 	"net/http"
 
-	"github.com/grantfayvor/hexcord-mediaserver/lib"
+	"github.com/remarket-vn/hexcord-mediaserver/lib"
 )
 
 func main() {
